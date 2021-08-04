@@ -17,6 +17,6 @@ do
     php /usr/local/PortForward/slave/Traffic_Checker.php
     php /usr/local/PortForward/slave/Port_Checker.php
     let i++
-    sleep 60
+    sleep 30
   done
 done
